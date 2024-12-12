@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meyve Sözlüğü</title>
+</head>
+<body>
+    <h1>Meyve Sözlüğü</h1>
+    {% for tr, en in data.items() %}
+    <li><b>{{ tr }}:</b> {{ en }}</li>
+    <img src="static/{{ tr }}.jpg" height="100">
+    <br>--- --- --- --- --- ---
+    {% endfor %}
+</body>
+</html>

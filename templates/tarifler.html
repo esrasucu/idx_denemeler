@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> tarifler </title>
+</head>
+<body>
+    <h1>::: Tarifler :::</h1>
+    <ol>
+    {% for a in data %}
+        <li>{{ tarif.TITLE }} ||{{ tarif.YEAR }}|| - {{ tarif.ARTIST }} ({{ tarif.COUNTRY }})</li>
+    {% endfor %}
+    </ol>
+</body>
+</html>
+        
+            

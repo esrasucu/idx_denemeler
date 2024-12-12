@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Dictionary</title>
+</head>
+<body>
+    <h1>My Dictionary</h1>
+    <ul>
+        {% for key, value in data.items() %}
+            <li><b>{{ key }}:</b> {{ value }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

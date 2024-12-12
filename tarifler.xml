@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tarifler>
+    <tarif>
+        <ad>Mercimek Çorbası</ad>
+        <malzemeler>
+            <malzeme>1 su bardağı kırmızı mercimek</malzeme>
+            <malzeme>1 adet soğan</malzeme>
+            <malzeme>1 adet havuç</malzeme>
+            <malzeme>2 yemek kaşığı zeytinyağı</malzeme>
+            <malzeme>5 su bardağı su</malzeme>
+            <malzeme>1 çay kaşığı tuz</malzeme>
+        </malzemeler>
+        <talimatlar>
+            <talimat>Soğanı doğrayın ve zeytinyağında pembeleşene kadar kavurun.</talimat>
+            <talimat>Havucu rendeleyin ve ekleyin. Birkaç dakika kavurun.</talimat>
+            <talimat>Mercimeği ve suyu ekleyin, karıştırın ve kaynamaya bırakın.</talimat>
+            <talimat>Kaynadıktan sonra tuz ekleyin ve çorba iyice pişene kadar kaynatın.</talimat>
+        </talimatlar>
+    </tarif>
+
+    <tarif>
+        <ad>Köfte</ad>
+        <malzemeler>
+            <malzeme>500 gram kıyma</malzeme>
+            <malzeme>1 adet soğan</malzeme>
+            <malzeme>1 çay bardağı galeta unu</malzeme>
+            <malzeme>1 yumurta</malzeme>
+            <malzeme>1 tatlı kaşığı tuz</malzeme>
+            <malzeme>1 çay kaşığı karabiber</malzeme>
+        </malzemeler>
+        <talimatlar>
+            <talimat>Soğanı rendeleyin ve kıymaya ekleyin.</talimat>
+            <talimat>Galeta unu, yumurta, tuz ve karabiberi de ekleyin, iyice yoğurun.</talimat>
+            <talimat>Yoğurduğunuz harçtan ceviz büyüklüğünde parçalar alıp şekil verin.</talimat>
+            <talimat>Bir tavada az miktarda yağ ile köfteleri pişirin.</talimat>
+        </talimatlar>
+    </tarif>
+</tarifle<?xml version="1.0" encoding="UTF-8"?>
+<tarifler>
+    <tarif>
+        <ad>Mercimek Çorbası</ad>
+        <malzemeler>
+            <malzeme>1 su bardağı kırmızı mercimek</malzeme>
+            <malzeme>1 adet soğan</malzeme>
+            <malzeme>1 adet havuç</malzeme>
+            <malzeme>2 yemek kaşığı zeytinyağı</malzeme>
+            <malzeme>5 su bardağı su</malzeme>
+            <malzeme>1 çay kaşığı tuz</malzeme>
+        </malzemeler>
+        <talimatlar>
+            <talimat>Soğanı doğrayın ve zeytinyağında pembeleşene kadar kavurun.</talimat>
+            <talimat>Havucu rendeleyin ve ekleyin. Birkaç dakika kavurun.</talimat>
+            <talimat>Mercimeği ve suyu ekleyin, karıştırın ve kaynamaya bırakın.</talimat>
+            <talimat>Kaynadıktan sonra tuz ekleyin ve çorba iyice pişene kadar kaynatın.</talimat>
+        </talimatlar>
+    </tarif>
+
+    <tarif>
+        <ad>Köfte</ad>
+        <malzemeler>
+            <malzeme>500 gram kıyma</malzeme>
+            <malzeme>1 adet soğan</malzeme>
+            <malzeme>1 çay bardağı galeta unu</malzeme>
+            <malzeme>1 yumurta</malzeme>
+            <malzeme>1 tatlı kaşığı tuz</malzeme>
+            <malzeme>1 çay kaşığı karabiber</malzeme>
+        </malzemeler>
+        <talimatlar>
+            <talimat>Soğanı rendeleyin ve kıymaya ekleyin.</talimat>
+            <talimat>Galeta unu, yumurta, tuz ve karabiberi de ekleyin, iyice yoğurun.</talimat>
+            <talimat>Yoğurduğunuz harçtan ceviz büyüklüğünde parçalar alıp şekil verin.</talimat>
+            <talimat>Bir tavada az miktarda yağ ile köfteleri pişirin.</talimat>
+        </talimatlar>
+    </tarif>
+</tarifler>
